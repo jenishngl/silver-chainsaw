@@ -1,2 +1,2 @@
 # silver-chainsaw
-A test blockchain
+A test blockchain for learning
