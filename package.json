@@ -1,0 +1,28 @@
+{
+  "name": "silver-chainsaw",
+  "version": "1.0.0",
+  "description": "A test blockchain for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "block-test": "nodemon ./tests/block-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenishngl/silver-chainsaw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenishngl/silver-chainsaw/issues"
+  },
+  "homepage": "https://github.com/jenishngl/silver-chainsaw#readme",
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
